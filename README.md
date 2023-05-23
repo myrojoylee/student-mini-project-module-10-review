@@ -26,23 +26,23 @@
 
   - [ ] It's done when I have created a `TaskList` class that inherits from the `Component` class.
 
-  - vIt's done when the `TaskList` class passes children to its parent class.
+  - [ ] It's done when the `TaskList` class passes children to its parent class.
 
   - [ ] It's done when a `render()` method is placed on the `TaskList` class and returns a string of HTML following this format: `<ul class="tasks">{INNER_HTML}</ul>`.
 
   - [ ] It's done when I have created a testing suite for the `Component` class to verify that `render()` throws an error when called directly.
 
-  - It's done when I have created a testing suite for the `Header` class to verify the header renders correctly with the date.
+  - [ ] It's done when I have created a testing suite for the `Header` class to verify the header renders correctly with the date.
 
-  - It's done when I have created a testing suite for the `TaskListItem` class that verifies that the list item renders correctly.
+  - [ ] It's done when I have created a testing suite for the `TaskListItem` class that verifies that the list item renders correctly.
 
-  - It's done when the `TaskListItem` class testing suite also verifies that a priority task renders correctly.
+  - [ ] It's done when the `TaskListItem` class testing suite also verifies that a priority task renders correctly.
 
-  - It's done when I have created a testing suite for the `TaskList` class that verifies the unordered list with tasks renders correctly.
+  - [ ] It's done when I have created a testing suite for the `TaskList` class that verifies the unordered list with tasks renders correctly.
 
-  - It's done when I have modified the `createDocument()` method on `document.js` to create a new `Header` class and to add `TaskListItems` to a `TaskList` class.
+  - [ ] It's done when I have modified the `createDocument()` method on `document.js` to create a new `Header` class and to add `TaskListItems` to a `TaskList` class.
 
-  - It's done when the `return` of the `createDocument()` method is modified to include the newly created `Header`, `TaskList`, and `TaskListItems` classes.
+  - [ ] It's done when the `return` of the `createDocument()` method is modified to include the newly created `Header`, `TaskList`, and `TaskListItems` classes.
 
 ## Installation
 
